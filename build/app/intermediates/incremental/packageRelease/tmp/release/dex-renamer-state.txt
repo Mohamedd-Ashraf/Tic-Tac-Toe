@@ -1,0 +1,4 @@
+#Tue Jul 19 21:24:50 EET 2022
+base.0=D\:\\Projects\\flutter\\summer 22\\7\\tst\\tic_tac_toe\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
